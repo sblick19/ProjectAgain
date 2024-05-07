@@ -1,0 +1,15 @@
+The Great Gatsby,F. Scott,Fitzgerald,12.99,FICTION,001,10
+To Kill a Mockingbird,Harper,Lee,11.50,FICTION,002,15
+Sapiens: A Brief History of Humankind,Yuval Noah,Harari,15.75,NON_FICTION,003,20
+Astrophysics for People in a Hurry,Neil deGrasse,Tyson,14.25,NON_FICTION,004,8
+The Da Vinci Code,Dan,Brown,10.99,MYSTERY,005,12
+Dune,Frank,Herbert,9.95,SCIENCE_FICTION,006,5
+The Hobbit,J.R.R.,Tolkien,12.75,FANTASY,007,18
+Pride and Prejudice,Jane,Austen,8.99,ROMANCE,008,14
+It,Stephen,King,13.50,HORROR,009,7
+The Girl on the Train,Paula,Hawkins,11.25,THRILLER,010,11
+Steve Jobs,Walter,Isaacson,16.00,BIOGRAPHY,011,9
+Guns, Germs, and Steel,Jared,Diamond,14.75,HISTORY,012,13
+The 7 Habits of Highly Effective People,Stephen R.,Covey,9.95,SELF_HELP,013,6
+Milk and Honey,Rupi,Kaur,7.99,POETRY,014,22
+Harry Potter and the Sorcerer's Stone,J.K.,Rowling,11.50,CHILDREN,015,16
